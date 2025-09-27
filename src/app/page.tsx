@@ -75,7 +75,7 @@ export default function Home() {
     <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-br from-purple-400 via-purple-600 to-purple-900 text-white font-sans">
       <main className="flex flex-col gap-8 items-center w-full max-w-md p-6 rounded-xl shadow-xl bg-white/10 backdrop-blur-md">
         {/* Biber-Maskottchen */}
-        <Image src="/biber.png" alt="Biber Maskottchen" width={120} height={120} className="mb-2 drop-shadow-lg" />
+  <Image src="/Rechenspiel/biber.png" alt="Biber Maskottchen" width={120} height={120} className="mb-2 drop-shadow-lg" />
         <h1 className="text-3xl font-bold mb-2 text-purple-200">Rechenspiel</h1>
         <p className="text-lg mb-4 text-purple-100">Löse die Aufgabe und lerne spielerisch Rechnen!</p>
         {/* Klassenstufe Auswahl */}
