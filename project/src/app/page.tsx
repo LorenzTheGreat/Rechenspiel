@@ -13,7 +13,8 @@ export default function Home() {
     switch (grade) {
       case 1:
         ops = ["+", "-"];
-        max = 20;
+        min = 1;
+        max = 9;
         break;
       case 2:
         ops = ["+", "-", "×"];
